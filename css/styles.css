@@ -15,18 +15,27 @@
 .footer{
 	margin: 0px auto;
 	padding: 20px 0px 20px 0px;
-	background-color: lightblue;
+	background-color: #ADD4F9;
 	#font-family: "Courier New";
 }
 
 .jumbotron{
 	padding: 70px 30px 70px 30px;
 	margin: 0px auto;
-	background-color: lightblue;
+	background-color: #ADD4F9;
 }
 
 .address{
 	font-size: 80%;
 	margin: 0px;
 	color: black;
+}
+
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar-dark {
+     background-color: #4CA5F8;
 }
